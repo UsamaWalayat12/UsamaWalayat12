@@ -1,4 +1,4 @@
- ![logo](https://github.com/UsamaWalayat12/UsamaWalayat12/blob/main/Banner.png)
+ ![logo](https://github.com/UsamaWalayat12/UsamaWalayat12/blob/main/Banner1.png)
 
 <h1 align="center">Hi 👋, I'm Usama Walayat</h1>
 <h3 align="center">A passionate Software Engineer crafting futuristic digital experiences with code.</h3>
