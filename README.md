@@ -6,13 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamawalayat12&label=Profile%20views&color=0e75b6&style=flat" alt="usamawalayat12" /> </p>
 
-- 🔭 I’m currently working on **FYP: NeuroPassport**
+- 🔭 I’m currently working on **FYP:  LawMate: An AI-Powered Legal Assistance and
+Lawyer-Client Interaction Platform**
 
 - 📝 I regularly write articles on [https://medium.com/@usamawalayat0/](https://medium.com/@usamawalayat0/)
 
 - 📫 How to reach me **usamawalayat0@gmail.com**
 
-- 📄 Know about my experiences [https://violet-arleta-89.tiiny.site](https://violet-arleta-89.tiiny.site)
+ - 📄  Check out my personal portfolio and experiences[Personal Portfolio](https://personal-portfolio-phi-ochre.vercel.app)
 
 - ⚡ Fun fact **😄I am Funny**
 
